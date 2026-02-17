@@ -3,9 +3,12 @@
 # ================================================
 **/bin/
 **/obj/
-**/Rele/
+**/Rele/               # ловит опечатки Rele вместо Release
 **/Release/
 **/Debug/
+**/x64/
+**/x86/
+**/AnyCPU/
 
 # ================================================
 # MSBuild и автогенерируемые файлы
@@ -24,17 +27,23 @@
 **/project.assets.json
 **/project.nuget.cache
 **/project.packagespec.json
+**/*.GeneratedMSBuildEditorConfig.editorconfig
+**/*.GlobalUsings.g.cs
+**/*.FileListAbsolute.txt
+**/*.sourcelink.json
 
 # ================================================
-# NuGet и пакеты
+# NuGet и локальные пакеты
 # ================================================
 **/packages/
 **/*.nupkg
 **/*.snupkg
 **/*.nuspec
 **/nupkg/
+**/nuget/
 .nuget.props
 .nuget.targets
+**/NuGet.Config   # иногда люди коммитят локальные настройки — обычно не нужно
 
 # ================================================
 # Rider / JetBrains специфические файлы
@@ -46,9 +55,10 @@
 **/*.ipr
 **/rider.project.model.nuget.info
 **/rider.project.restore.info
+**/rider.*
 
 # ================================================
-# Visual Studio / VS Code / общие
+# Visual Studio / VS Code / общие IDE-файлы
 # ================================================
 .vs/
 .vscode/
@@ -58,20 +68,37 @@
 **/*.sln.docstates
 **/*.vspscc
 **/*.vssscc
+**/*.code-workspace   # иногда коммитят workspace-файлы
 
 # ================================================
-# macOS / Windows мусор
+# macOS / Windows / общий мусор ОС
 # ================================================
 .DS_Store
 Thumbs.db
 ehthumbs.db
 desktop.ini
+$RECYCLE.BIN/
+System Volume Information/
 
 # ================================================
-# Дополнительно: временные и кэш-файлы
+# Временные и кэш-файлы (общие)
 # ================================================
 **/*.cache
 **/*.generated
 **/GeneratedFiles/
 **/temp/
 **/tmp/
+**/*.log
+**/*.tmp
+**/logs/
+**/backup/
+
+# ================================================
+# Дополнительно: тесты, coverage, публикация
+# ================================================
+**/TestResults/
+**/coverlet/reports/
+**/coverage/
+**/publish/
+**/out/
+**/dist/
