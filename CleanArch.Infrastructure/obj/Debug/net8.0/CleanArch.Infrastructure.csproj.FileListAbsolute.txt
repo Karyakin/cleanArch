@@ -1,0 +1,15 @@
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/bin/Debug/net8.0/CleanArch.Infrastructure.deps.json
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/bin/Debug/net8.0/CleanArch.Infrastructure.dll
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/bin/Debug/net8.0/CleanArch.Infrastructure.pdb
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/bin/Debug/net8.0/CleanArch.Domain.dll
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/bin/Debug/net8.0/CleanArch.Domain.pdb
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArch.Infrastructure.csproj.AssemblyReference.cache
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArch.Infrastructure.AssemblyInfoInputs.cache
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArch.Infrastructure.AssemblyInfo.cs
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArc.9B8778E9.Up2Date
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArch.Infrastructure.dll
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/obj/Debug/net8.0/refint/CleanArch.Infrastructure.dll
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArch.Infrastructure.pdb
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/obj/Debug/net8.0/ref/CleanArch.Infrastructure.dll
