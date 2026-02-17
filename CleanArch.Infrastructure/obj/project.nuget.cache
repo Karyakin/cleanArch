@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iBal/K6r8Bs=",
+  "dgSpecHash": "p6Tcjecp9Ew=",
   "success": true,
   "projectFilePath": "/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Infrastructure/CleanArch.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "/Users/dmitrijkarakin/.nuget/packages/cleanarch.domain/1.0.0/cleanarch.domain.1.0.0.nupkg.sha512"
+    "/Users/dmitrijkarakin/.nuget/packages/cleanarch.domain/1.0.1/cleanarch.domain.1.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Core domain entities, value objects, repositories interfaces для CleanArch")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+69ff2b93feddbe01cf0369c925d3d312c4a2e931")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+952383af2292f0a6dc6b55e5876fb8db3ec27853")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArch.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArch.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]

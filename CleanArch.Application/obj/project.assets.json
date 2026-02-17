@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "CleanArch.Domain/1.0.0": {
+      "CleanArch.Domain/1.0.1": {
         "type": "package",
         "compile": {
           "lib/net8.0/CleanArch.Domain.dll": {}
@@ -14,14 +14,14 @@
     }
   },
   "libraries": {
-    "CleanArch.Domain/1.0.0": {
-      "sha512": "hklfira+SOFMFkh7A539J6B1Sm4RYKHqX2Rn3G8Bmu02sGz6j3BbNda2cMRm408E9Dhk5rfPGzxnP9mHM12Nkw==",
+    "CleanArch.Domain/1.0.1": {
+      "sha512": "QQQZmNhl6z4COFnUVYLv5H19hiZ0z3vSaqAPk/IpjOopuKNI5Yk4QCyG4JnGSheAMyGzuci4cwvBw6h5grMGuA==",
       "type": "package",
-      "path": "cleanarch.domain/1.0.0",
+      "path": "cleanarch.domain/1.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "cleanarch.domain.1.0.0.nupkg.sha512",
+        "cleanarch.domain.1.0.1.nupkg.sha512",
         "cleanarch.domain.nuspec",
         "lib/net8.0/CleanArch.Domain.dll"
       ]
@@ -29,7 +29,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "CleanArch.Domain >= 1.0.0"
+      "CleanArch.Domain >= 1.0.1"
     ]
   },
   "packageFolders": {
@@ -76,7 +76,7 @@
         "dependencies": {
           "CleanArch.Domain": {
             "target": "Package",
-            "version": "[1.0.0, )"
+            "version": "[1.0.1, )"
           }
         },
         "imports": [

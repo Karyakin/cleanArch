@@ -9,7 +9,7 @@
       "CleanArch/1.0.0": {
         "dependencies": {
           "CleanArch.Application": "1.0.0",
-          "CleanArch.Domain": "1.0.0",
+          "CleanArch.Domain": "1.0.1",
           "CleanArch.Infrastructure": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "11.0.0-preview.1.26104.118",
           "Microsoft.Extensions.Hosting": "8.0.0",
@@ -19,11 +19,11 @@
           "CleanArch.dll": {}
         }
       },
-      "CleanArch.Domain/1.0.0": {
+      "CleanArch.Domain/1.0.1": {
         "runtime": {
           "lib/net8.0/CleanArch.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
           }
         }
       },
@@ -295,7 +295,7 @@
       },
       "CleanArch.Application/1.0.0": {
         "dependencies": {
-          "CleanArch.Domain": "1.0.0"
+          "CleanArch.Domain": "1.0.1"
         },
         "runtime": {
           "CleanArch.Application.dll": {
@@ -306,7 +306,7 @@
       },
       "CleanArch.Infrastructure/1.0.0": {
         "dependencies": {
-          "CleanArch.Domain": "1.0.0"
+          "CleanArch.Domain": "1.0.1"
         },
         "runtime": {
           "CleanArch.Infrastructure.dll": {
@@ -323,12 +323,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "CleanArch.Domain/1.0.0": {
+    "CleanArch.Domain/1.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-hklfira+SOFMFkh7A539J6B1Sm4RYKHqX2Rn3G8Bmu02sGz6j3BbNda2cMRm408E9Dhk5rfPGzxnP9mHM12Nkw==",
-      "path": "cleanarch.domain/1.0.0",
-      "hashPath": "cleanarch.domain.1.0.0.nupkg.sha512"
+      "sha512": "sha512-QQQZmNhl6z4COFnUVYLv5H19hiZ0z3vSaqAPk/IpjOopuKNI5Yk4QCyG4JnGSheAMyGzuci4cwvBw6h5grMGuA==",
+      "path": "cleanarch.domain/1.0.1",
+      "hashPath": "cleanarch.domain.1.0.1.nupkg.sha512"
     },
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "type": "package",
