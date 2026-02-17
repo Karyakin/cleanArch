@@ -7,7 +7,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\CleanArch.Domain\CleanArch.Domain.csproj" />
+      <PackageReference Include="CleanArch.Domain" Version="1.0.0" />
     </ItemGroup>
-
 </Project>

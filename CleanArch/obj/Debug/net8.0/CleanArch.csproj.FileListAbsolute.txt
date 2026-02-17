@@ -33,6 +33,6 @@
 /Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch/bin/Debug/net8.0/CleanArch.Application.dll
 /Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch/bin/Debug/net8.0/CleanArch.Domain.dll
 /Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch/bin/Debug/net8.0/CleanArch.Application.pdb
-/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch/bin/Debug/net8.0/CleanArch.Domain.pdb
 /Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch/bin/Debug/net8.0/CleanArch.Infrastructure.dll
 /Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch/bin/Debug/net8.0/CleanArch.Infrastructure.pdb
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch/obj/Debug/net8.0/CleanArch.sourcelink.json

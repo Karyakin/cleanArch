@@ -9,4 +9,4 @@
 /Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Domain/obj/Debug/net8.0/refint/CleanArch.Domain.dll
 /Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Domain/obj/Debug/net8.0/CleanArch.Domain.pdb
 /Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Domain/obj/Debug/net8.0/ref/CleanArch.Domain.dll
-/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Domain/obj/Debug/net8.0/CleanArch.Domain.csproj.AssemblyReference.cache
+/Users/dmitrijkarakin/Desktop/Projects/CleanArch/CleanArch.Domain/obj/Debug/net8.0/CleanArch.Domain.sourcelink.json
